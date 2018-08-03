@@ -3,6 +3,8 @@
 从中文文本中提取摘要和关键词<br/>
 优化了算法收敛时间，和textrank4zh相比，速度提升了8倍<br/>
 可以自由选择载入词向量字典，提高了准确性，但是载入词向量会使速度变慢
+## 一些思考
+https://zhuanlan.zhihu.com/p/41241390
 ## 安装 
 依赖：'Numpy>=1.14.5','gensim>=3.5.0'<br/>
 pip install FastTextRank
