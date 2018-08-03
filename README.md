@@ -1,8 +1,8 @@
 # FastTextRank
-##简介
+## 简介
 从中文文本中提取摘要和关键词
 优化了算法收敛时间，和textrank4zh相比，速度提升了8倍
-##安装 
+## 安装 
 依赖：'Numpy>=1.14.5','gensim>=3.5.0'
 pip install FastTextRank
 # FastTextRank
